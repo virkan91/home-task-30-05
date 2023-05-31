@@ -131,7 +131,7 @@
 
 
         // function addIndexes(arr) {
-        // 	return arr.map((val, i) => val + i);
+        // 	return arr.map((x, i) => x + i);
         // }
         // console.log(addIndexes([0, 0, 0, 0, 0]))
 
